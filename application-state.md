@@ -24,6 +24,7 @@ PyYAML, disponível apenas na pasta local ignorada validation/.deps nesta sessã
 | --- | --- | --- |
 | 2026-11-13 | Agente nesta conversa, após escolha MIT e titular luizgcl pelo usuário | Criou README.md, LICENSE e cópia em project-context/LICENSE; declarou license: MIT no frontmatter e iniciou este registro de estado. |
 | 2026-11-13 | Agente nesta conversa, com publicação pública autorizada pelo usuário | Criou luizgcl/project-context pelo GitHub CLI, adicionou instrução de clone ao README e padronizou finais de linha LF em .gitattributes para preservar hashes das fixtures entre plataformas. |
+| 2026-11-13 | Agente nesta conversa, por solicitação do usuário | Renomeou a branch local de master para main antes do primeiro envio; preservou o commit inicial f544f7b. |
 
 Os demais materiais da skill e as fixtures já existiam antes desta tarefa;
 seu histórico de desenvolvimento e validação está em [RESULTS](validation/RESULTS.md).
@@ -47,6 +48,7 @@ aplicação fictícia. Os resultados não comprovam instalação nas ferramentas
 ## Pendências e limites
 
 - Repositório remoto público criado; nenhuma tag ou release criada nesta tarefa.
+- Branch de publicação: main. O envio anterior de master não foi executado; a publicação deve usar main.
 - Instalação e execução interativa no Claude Code não foram testadas aqui.
 - A documentação de instalação referencia fontes oficiais; descoberta da skill
   depende do ambiente e da instalação no destino correto.
