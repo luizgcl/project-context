@@ -1,0 +1,12 @@
+{
+  "AGENTS.md": "bb9ef09e32451072efa25a4bec95683a8c47f5004bc8ea74363896a1445a810a",
+  "context-map.md": "ac41978ccdb15aa4cbd4cdc6ee6c07e6c905e91562a0a14506bbe1df647f3a21",
+  "discovery.md": "39f8508855a4baaa9920b15f58cc565aed62fd403fe8b4d02c7b52dc8dd6567f",
+  "product.md": "62679caf62b6401278103d41618a2d9a3bf4298f921b3187fda3b657444cabbe",
+  "docs/README.md": "907ffcb0348badd43ed2d34247023a4d42cf6574f3508294f49e8db058b4b82c",
+  "docs/architecture/current.md": "b2b2f0cb413db72a0a3eb549460a7b3773ee64c1aaf698b5c7d291a8c531abe1",
+  "src/sales/context.md": "b0e86ee80282445b9e10920edf2152815a3408c723bcdcc15d2fa22098c13185",
+  "src/sales/service.py": "d383bbdb1565bb28d6a7aad40cc4d30612763824748e6c2d7526fff83594d85d",
+  "src/shipping/context.md": "b7bd42817e39459886d5a9156c8e602072253884b4ca691e9abbd75d03f7a8e7",
+  "src/shipping/service.py": "7331460028eaaaf04074bf5e15ac52da275956c39930b0ec11e23de5b620088a"
+}

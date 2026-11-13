@@ -1,0 +1,21 @@
+# Vendas — cenário fictício
+
+## Propósito e limites
+
+Possui compromisso comercial, itens e preço. Não possui despacho físico, que cabe
+à [Expedição](../shipping/context.md). Fonte: [P2](../../discovery.md).
+
+## Linguagem
+
+| Termo | Significado local | Sinônimo evitado | Outro contexto | Código |
+| --- | --- | --- | --- | --- |
+| Pedido | Compromisso comercial | Pedido de envio | Em Expedição é solicitação de envio | `order` |
+
+## Nota existente a preservar
+
+O identificador comercial continua estável durante todo o atendimento.
+
+## Comportamento observado
+
+[can_cancel](service.py) aceita estados `paid` e `shipped`. Isso descreve a
+implementação observada; a política desejada será refinada com cenários.
